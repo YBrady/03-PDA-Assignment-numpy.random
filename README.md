@@ -18,7 +18,7 @@ To run the notebook, open it and go to Kernel -> Clear and Run All. This will no
 
 ## Investigation of Random ##
 
-![]["/images/dice.jpg"]
+![](/images/dice.jpg)
 ***
 **Warning:**  
 * When running like this the notebook will NOT go to completion.  
