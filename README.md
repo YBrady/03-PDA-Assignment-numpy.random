@@ -18,7 +18,7 @@ To run the notebook, open it and go to Kernel -> Clear and Run All. This will no
 
 ## Investigation of Random ##
 
-![](/images/dice.jpg)
+<img style="float: right; " src = "images/dice.jpg" height = "18" width = "300"/>
 ***
 **Warning:**  
 * When running like this the notebook will NOT go to completion.  
