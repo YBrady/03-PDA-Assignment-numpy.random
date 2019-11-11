@@ -18,10 +18,12 @@ To run the notebook, open it and go to Kernel -> Clear and Run All. This will no
 
 ## Investigation of Random ##
 
-<img style="float: right; " src = "images/dice.jpg" height = "18" width = "300"/>
-***
+
+
+<img src="images/dice.jpg" alt="Dice" height="30%" align="left" hspace="20" vspace="20"> 
+
 **Warning:**  
 * When running like this the notebook will NOT go to completion.  
 * It pauses at the start to get you to pick a number between 1 and 10. (There is no error handling on this if you ener in a number outside these limits or anything but a number.)  
 * It is designed to error at some parts which will become evident as you look through the Notebook. Intentional errors are clearly marked.
-***
+
