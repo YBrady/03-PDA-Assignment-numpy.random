@@ -12,7 +12,13 @@ ___________________________________________
 ___________________________________________
 
 
-This Assignment was written in a Jupyter Notebook located in this repository. PLease download this Jupyter Notebook to see the assignment details. 
+This Assignment was written in a Jupyter Notebook located in this repository. Please download this Jupyter Notebook to see the assignment details in full. Github rendering of the Jupyter Notebook results in various errors including:
+* Some images not being displayed correctly.
+* HTML not being displayed.
+* Links within the document not functioning.
+* Complex LaTex not rendering properly.
+
+All the above works perfectly in native Jupyter Notebook.
 
 To run the notebook, open it and go to Kernel -> Clear and Run All. This will not go to completion - see warning below.
 
